@@ -1,0 +1,767 @@
+Using arguments from command line
+Sleep time = 20
+Producer threads = 10
+Consumer threads = 5
+Producer produced 1317284983
+Producer produced 1420371722
+Producer produced 1799780749
+Producer produced 1513607465
+Producer produced 1397460413
+        Consumer consumed 1317284983
+Producer produced 2013111897
+        Consumer consumed 1420371722
+Producer produced 1848797790
+        Consumer consumed 1799780749
+Producer produced 2009788310
+        Consumer consumed 1513607465
+        Consumer consumed 1397460413
+Producer produced 749957611
+Producer produced 1369859404
+        Consumer consumed 2013111897
+        Consumer consumed 1848797790
+Producer produced 156313191
+Producer produced 1096899618
+        Consumer consumed 2009788310
+Producer produced 1120800788
+        Consumer consumed 749957611
+Producer produced 708034137
+        Consumer consumed 1369859404
+Producer produced 1515904961
+        Consumer consumed 156313191
+Producer produced 1236863525
+        Consumer consumed 1096899618
+Producer produced 1263989087
+        Consumer consumed 1120800788
+Producer produced 1205360347
+        Consumer consumed 708034137
+Producer produced 2123090910
+        Consumer consumed 1515904961
+Producer produced 20837780
+        Consumer consumed 1236863525
+Producer produced 740205641
+        Consumer consumed 1263989087
+Producer produced 359707929
+        Consumer consumed 1205360347
+Producer produced 1547687000
+        Consumer consumed 2123090910
+Producer produced 653864837
+        Consumer consumed 20837780
+Producer produced 1829957249
+        Consumer consumed 740205641
+Producer produced 1745421961
+        Consumer consumed 359707929
+Producer produced 994868492
+        Consumer consumed 1547687000
+Producer produced 514378385
+        Consumer consumed 653864837
+Producer produced 976541362
+        Consumer consumed 1829957249
+Producer produced 2119700750
+        Consumer consumed 1745421961
+Producer produced 1923307089
+        Consumer consumed 994868492
+Producer produced 1003008900
+        Consumer consumed 514378385
+Producer produced 279600653
+        Consumer consumed 976541362
+Producer produced 172550930
+        Consumer consumed 2119700750
+Producer produced 96389147
+        Consumer consumed 1923307089
+Producer produced 616353829
+        Consumer consumed 1003008900
+Producer produced 1193481631
+        Consumer consumed 279600653
+Producer produced 740127363
+        Consumer consumed 172550930
+Producer produced 1580999841
+        Consumer consumed 96389147
+Producer produced 1743071282
+        Consumer consumed 616353829
+Producer produced 1948665992
+        Consumer consumed 1193481631
+Producer produced 1083566056
+        Consumer consumed 740127363
+        Consumer consumed 1580999841
+Producer produced 2017954989
+Producer produced 1029207407
+        Consumer consumed 1743071282
+Producer produced 2133203884
+        Consumer consumed 1948665992
+Producer produced 832501865
+        Consumer consumed 1083566056
+Producer produced 1817411900
+        Consumer consumed 2017954989
+Producer produced 2105068792
+        Consumer consumed 1029207407
+Producer produced 1751524215
+        Consumer consumed 2133203884
+Producer produced 1851648603
+        Consumer consumed 832501865
+Producer produced 922396458
+        Consumer consumed 1817411900
+Producer produced 1077590279
+        Consumer consumed 2105068792
+Producer produced 504137242
+        Consumer consumed 1751524215
+Producer produced 817167919
+        Consumer consumed 1851648603
+Producer produced 887583308
+        Consumer consumed 922396458
+Producer produced 235544399
+        Consumer consumed 1077590279
+Producer produced 710578979
+        Consumer consumed 504137242
+Producer produced 1564388719
+        Consumer consumed 817167919
+Producer produced 601427396
+        Consumer consumed 887583308
+Producer produced 2078615704
+        Consumer consumed 235544399
+Producer produced 1029081024
+        Consumer consumed 710578979
+Producer produced 376176501
+        Consumer consumed 1564388719
+Producer produced 2072191278
+        Consumer consumed 601427396
+Producer produced 1535983309
+        Consumer consumed 2078615704
+Producer produced 1197676190
+        Consumer consumed 1029081024
+Producer produced 1820713427
+        Consumer consumed 376176501
+Producer produced 203361784
+        Consumer consumed 2072191278
+Producer produced 1692251349
+        Consumer consumed 1535983309
+Producer produced 1677243528
+        Consumer consumed 1197676190
+Producer produced 615535918
+        Consumer consumed 1820713427
+Producer produced 624587961
+        Consumer consumed 203361784
+Producer produced 497307300
+        Consumer consumed 1692251349
+Producer produced 777541667
+        Consumer consumed 1677243528
+Producer produced 2144603362
+        Consumer consumed 615535918
+Producer produced 692217499
+        Consumer consumed 624587961
+Producer produced 1391447126
+        Consumer consumed 497307300
+Producer produced 1812110575
+        Consumer consumed 777541667
+Producer produced 1526445187
+        Consumer consumed 2144603362
+Producer produced 2008394868
+        Consumer consumed 692217499
+Producer produced 2035367128
+        Consumer consumed 1391447126
+Producer produced 665818726
+        Consumer consumed 1812110575
+Producer produced 927865644
+        Consumer consumed 1526445187
+Producer produced 1036415957
+        Consumer consumed 2008394868
+Producer produced 1578955458
+        Consumer consumed 2035367128
+Producer produced 2014889594
+        Consumer consumed 665818726
+Producer produced 1324084987
+        Consumer consumed 927865644
+Producer produced 289060607
+        Consumer consumed 1036415957
+Producer produced 816738118
+        Consumer consumed 1578955458
+Producer produced 1785344280
+        Consumer consumed 2014889594
+Producer produced 2035391943
+        Consumer consumed 1324084987
+Producer produced 531304261
+        Consumer consumed 289060607
+Producer produced 44779007
+        Consumer consumed 816738118
+Producer produced 1181034101
+        Consumer consumed 1785344280
+Producer produced 889965581
+        Consumer consumed 2035391943
+Producer produced 124117405
+        Consumer consumed 531304261
+Producer produced 2139586058
+        Consumer consumed 44779007
+Producer produced 1040054948
+        Consumer consumed 1181034101
+Producer produced 1246477560
+        Consumer consumed 889965581
+Producer produced 1608475434
+        Consumer consumed 124117405
+Producer produced 1767652875
+        Consumer consumed 2139586058
+Producer produced 1051939083
+        Consumer consumed 1040054948
+Producer produced 1788101632
+        Consumer consumed 1246477560
+Producer produced 780604982
+        Consumer consumed 1608475434
+Producer produced 1533736315
+        Consumer consumed 1767652875
+Producer produced 326203986
+        Consumer consumed 1051939083
+Producer produced 1612338846
+        Consumer consumed 1788101632
+Producer produced 628201991
+        Consumer consumed 780604982
+Producer produced 691077820
+        Consumer consumed 1533736315
+Producer produced 1465800492
+        Consumer consumed 326203986
+Producer produced 1928959249
+        Consumer consumed 1612338846
+Producer produced 1409778664
+        Consumer consumed 628201991
+Producer produced 89012916
+        Consumer consumed 691077820
+Producer produced 1111252372
+        Consumer consumed 1465800492
+Producer produced 1427105252
+        Consumer consumed 1928959249
+Producer produced 438682076
+        Consumer consumed 1409778664
+Producer produced 1811305043
+        Consumer consumed 89012916
+Producer produced 1730732045
+        Consumer consumed 1111252372
+Producer produced 125759243
+        Consumer consumed 1427105252
+Producer produced 767461431
+        Consumer consumed 438682076
+Producer produced 356526583
+        Consumer consumed 1811305043
+Producer produced 1615651556
+        Consumer consumed 1730732045
+Producer produced 1598752072
+        Consumer consumed 125759243
+Producer produced 608635951
+        Consumer consumed 767461431
+Producer produced 1857304395
+        Consumer consumed 356526583
+Producer produced 539152841
+        Consumer consumed 1615651556
+Producer produced 584924206
+        Consumer consumed 1598752072
+Producer produced 650170932
+        Consumer consumed 608635951
+Producer produced 937933662
+        Consumer consumed 1857304395
+Producer produced 794754893
+        Consumer consumed 539152841
+Producer produced 1494433190
+        Consumer consumed 584924206
+Producer produced 950973181
+        Consumer consumed 650170932
+Producer produced 1349454747
+        Consumer consumed 937933662
+Producer produced 69630176
+        Consumer consumed 794754893
+Producer produced 2129754799
+        Consumer consumed 1494433190
+Producer produced 51063708
+        Consumer consumed 950973181
+Producer produced 2055276397
+        Consumer consumed 1349454747
+Producer produced 527762274
+        Consumer consumed 69630176
+Producer produced 576368272
+        Consumer consumed 2129754799
+Producer produced 563030371
+        Consumer consumed 51063708
+Producer produced 109737333
+        Consumer consumed 2055276397
+Producer produced 1100158892
+        Consumer consumed 527762274
+Producer produced 1469600235
+        Consumer consumed 576368272
+Producer produced 616418423
+        Consumer consumed 563030371
+Producer produced 73715715
+        Consumer consumed 109737333
+Producer produced 1231497196
+        Consumer consumed 1100158892
+Producer produced 628964852
+        Consumer consumed 1469600235
+Producer produced 1499688182
+        Consumer consumed 616418423
+Producer produced 1051373745
+        Consumer consumed 73715715
+Producer produced 1015482535
+        Consumer consumed 1231497196
+Producer produced 1618988093
+        Consumer consumed 628964852
+Producer produced 1549359037
+        Consumer consumed 1499688182
+Producer produced 891044613
+        Consumer consumed 1051373745
+Producer produced 211235823
+        Consumer consumed 1015482535
+Producer produced 1831076716
+        Consumer consumed 1618988093
+Producer produced 610188602
+        Consumer consumed 1549359037
+Producer produced 2139478683
+        Consumer consumed 891044613
+Producer produced 43762508
+        Consumer consumed 211235823
+Producer produced 1090995920
+        Consumer consumed 1831076716
+Producer produced 1542311468
+        Consumer consumed 610188602
+Producer produced 1538519954
+        Consumer consumed 2139478683
+Producer produced 2132785363
+        Consumer consumed 43762508
+Producer produced 1458346959
+        Consumer consumed 1090995920
+Producer produced 1405560140
+        Consumer consumed 1542311468
+Producer produced 922239796
+        Consumer consumed 1538519954
+Producer produced 263480769
+        Consumer consumed 2132785363
+Producer produced 167005319
+        Consumer consumed 1458346959
+Producer produced 1312468147
+        Consumer consumed 1405560140
+Producer produced 1189410035
+        Consumer consumed 922239796
+Producer produced 1608755058
+        Consumer consumed 263480769
+Producer produced 235415955
+        Consumer consumed 167005319
+Producer produced 916769598
+        Consumer consumed 1312468147
+Producer produced 387231490
+        Consumer consumed 1189410035
+Producer produced 1141348456
+        Consumer consumed 1608755058
+Producer produced 319811511
+        Consumer consumed 235415955
+Producer produced 901875803
+        Consumer consumed 916769598
+Producer produced 1577262125
+        Consumer consumed 387231490
+Producer produced 523723478
+        Consumer consumed 1141348456
+Producer produced 438859901
+        Consumer consumed 319811511
+Producer produced 704971995
+        Consumer consumed 901875803
+Producer produced 1034387787
+        Consumer consumed 1577262125
+Producer produced 336686672
+        Consumer consumed 523723478
+Producer produced 946994418
+        Consumer consumed 438859901
+Producer produced 2139806888
+        Consumer consumed 704971995
+Producer produced 812934679
+        Consumer consumed 1034387787
+Producer produced 798278618
+        Consumer consumed 336686672
+Producer produced 693900042
+        Consumer consumed 946994418
+Producer produced 917901087
+        Consumer consumed 2139806888
+Producer produced 1760579172
+        Consumer consumed 812934679
+Producer produced 627134930
+        Consumer consumed 798278618
+Producer produced 810504299
+        Consumer consumed 693900042
+Producer produced 990028988
+        Consumer consumed 917901087
+Producer produced 278719859
+        Consumer consumed 1760579172
+Producer produced 1885586257
+        Consumer consumed 627134930
+Producer produced 729393359
+        Consumer consumed 810504299
+Producer produced 1442114117
+        Consumer consumed 990028988
+Producer produced 240109528
+        Consumer consumed 278719859
+Producer produced 487436043
+        Consumer consumed 1885586257
+Producer produced 1674548015
+        Consumer consumed 729393359
+Producer produced 482468540
+        Consumer consumed 1442114117
+Producer produced 345602384
+        Consumer consumed 240109528
+Producer produced 1366477911
+        Consumer consumed 487436043
+Producer produced 230538347
+        Consumer consumed 1674548015
+Producer produced 107574635
+        Consumer consumed 482468540
+Producer produced 640389127
+        Consumer consumed 345602384
+Producer produced 1566345734
+        Consumer consumed 1366477911
+Producer produced 917294878
+        Consumer consumed 230538347
+Producer produced 493574518
+        Consumer consumed 107574635
+Producer produced 530007397
+        Consumer consumed 640389127
+Producer produced 1751465430
+        Consumer consumed 1566345734
+Producer produced 1493549755
+        Consumer consumed 917294878
+Producer produced 1493749060
+        Consumer consumed 493574518
+Producer produced 105141922
+        Consumer consumed 530007397
+Producer produced 724358383
+        Consumer consumed 1751465430
+Producer produced 935462527
+        Consumer consumed 1493549755
+Producer produced 1239321391
+        Consumer consumed 1493749060
+Producer produced 1559115354
+        Consumer consumed 105141922
+Producer produced 1487229269
+        Consumer consumed 724358383
+Producer produced 2077663418
+        Consumer consumed 935462527
+Producer produced 2023826069
+        Consumer consumed 1239321391
+Producer produced 1825485921
+        Consumer consumed 1559115354
+Producer produced 59375314
+        Consumer consumed 1487229269
+Producer produced 403747639
+        Consumer consumed 2077663418
+Producer produced 602872092
+        Consumer consumed 2023826069
+Producer produced 1157568732
+        Consumer consumed 1825485921
+Producer produced 866454440
+        Consumer consumed 59375314
+Producer produced 986552746
+        Consumer consumed 403747639
+Producer produced 371262453
+        Consumer consumed 602872092
+Producer produced 964181152
+        Consumer consumed 1157568732
+Producer produced 1491572932
+        Consumer consumed 866454440
+Producer produced 592051119
+        Consumer consumed 986552746
+Producer produced 1771343127
+        Consumer consumed 371262453
+Producer produced 1833595963
+        Consumer consumed 964181152
+Producer produced 1372020602
+        Consumer consumed 1491572932
+Producer produced 652852803
+        Consumer consumed 592051119
+Producer produced 1486778536
+        Consumer consumed 1771343127
+Producer produced 433616510
+        Consumer consumed 1833595963
+Producer produced 413934118
+        Consumer consumed 1372020602
+Producer produced 1474931913
+        Consumer consumed 652852803
+Producer produced 973023692
+        Consumer consumed 1486778536
+Producer produced 453983563
+        Consumer consumed 433616510
+Producer produced 2107651704
+        Consumer consumed 413934118
+Producer produced 644969534
+        Consumer consumed 1474931913
+Producer produced 874757607
+        Consumer consumed 973023692
+Producer produced 111293279
+        Consumer consumed 453983563
+Producer produced 1330232080
+        Consumer consumed 2107651704
+Producer produced 1954504260
+        Consumer consumed 644969534
+Producer produced 1540005392
+        Consumer consumed 874757607
+Producer produced 1316752358
+        Consumer consumed 111293279
+Producer produced 1017695016
+        Consumer consumed 1330232080
+Producer produced 1082343331
+        Consumer consumed 1954504260
+Producer produced 1249751979
+        Consumer consumed 1540005392
+Producer produced 928506508
+        Consumer consumed 1316752358
+Producer produced 189441197
+        Consumer consumed 1017695016
+Producer produced 988727571
+        Consumer consumed 1082343331
+Producer produced 1315249532
+        Consumer consumed 1249751979
+Producer produced 1730535526
+        Consumer consumed 928506508
+Producer produced 1346018632
+        Consumer consumed 189441197
+Producer produced 1339252968
+        Consumer consumed 988727571
+Producer produced 1387948529
+        Consumer consumed 1315249532
+Producer produced 1396930396
+        Consumer consumed 1730535526
+Producer produced 1597998794
+        Consumer consumed 1346018632
+Producer produced 315346540
+        Consumer consumed 1339252968
+Producer produced 1958057972
+        Consumer consumed 1387948529
+Producer produced 938113325
+        Consumer consumed 1396930396
+Producer produced 1674107270
+        Consumer consumed 1597998794
+Producer produced 1467710157
+        Consumer consumed 315346540
+Producer produced 63866945
+        Consumer consumed 1958057972
+Producer produced 1724894372
+        Consumer consumed 938113325
+Producer produced 681204162
+        Consumer consumed 1674107270
+Producer produced 863395490
+        Consumer consumed 1467710157
+Producer produced 1013063915
+        Consumer consumed 63866945
+Producer produced 995870689
+        Consumer consumed 1724894372
+Producer produced 24289383
+        Consumer consumed 681204162
+Producer produced 2056395457
+        Consumer consumed 863395490
+Producer produced 788561281
+        Consumer consumed 1013063915
+Producer produced 36516908
+        Consumer consumed 995870689
+Producer produced 1731571191
+        Consumer consumed 24289383
+Producer produced 1571482514
+        Consumer consumed 2056395457
+Producer produced 2037484669
+        Consumer consumed 788561281
+Producer produced 542480420
+        Consumer consumed 36516908
+Producer produced 851155675
+        Consumer consumed 1731571191
+Producer produced 293707503
+        Consumer consumed 1571482514
+Producer produced 1397232917
+        Consumer consumed 2037484669
+Producer produced 1577063348
+        Consumer consumed 542480420
+Producer produced 1271372707
+        Consumer consumed 851155675
+Producer produced 399518493
+        Consumer consumed 293707503
+Producer produced 1577298989
+        Consumer consumed 1397232917
+Producer produced 156093784
+        Consumer consumed 1577063348
+Producer produced 413157621
+        Consumer consumed 1271372707
+Producer produced 1710897998
+        Consumer consumed 399518493
+Producer produced 227058983
+        Consumer consumed 1577298989
+Producer produced 151377659
+        Consumer consumed 156093784
+Producer produced 162732628
+        Consumer consumed 413157621
+Producer produced 2054518625
+        Consumer consumed 1710897998
+Producer produced 2035063390
+        Consumer consumed 227058983
+Producer produced 942363933
+        Consumer consumed 151377659
+Producer produced 1875522730
+        Consumer consumed 162732628
+Producer produced 1924827934
+        Consumer consumed 2054518625
+Producer produced 179218424
+        Consumer consumed 2035063390
+Producer produced 493788804
+        Consumer consumed 942363933
+Producer produced 2067578320
+        Consumer consumed 1875522730
+Producer produced 632430982
+        Consumer consumed 1924827934
+Producer produced 853956947
+        Consumer consumed 179218424
+Producer produced 602285686
+        Consumer consumed 493788804
+Producer produced 1069335104
+        Consumer consumed 2067578320
+Producer produced 1211874335
+        Consumer consumed 632430982
+Producer produced 964197057
+        Consumer consumed 853956947
+Producer produced 1534225686
+        Consumer consumed 602285686
+Producer produced 888191955
+        Consumer consumed 1069335104
+Producer produced 1858828861
+        Consumer consumed 1211874335
+Producer produced 346169919
+        Consumer consumed 964197057
+Producer produced 2025759572
+        Consumer consumed 1534225686
+Producer produced 1168866347
+        Consumer consumed 888191955
+Producer produced 19166779
+        Consumer consumed 1858828861
+Producer produced 65747343
+        Consumer consumed 346169919
+Producer produced 1453267655
+        Consumer consumed 2025759572
+Producer produced 1953529096
+        Consumer consumed 1168866347
+Producer produced 1237068402
+        Consumer consumed 19166779
+Producer produced 614787762
+        Consumer consumed 65747343
+Producer produced 2127594043
+        Consumer consumed 1453267655
+Producer produced 1168465112
+        Consumer consumed 1953529096
+Producer produced 1729111857
+        Consumer consumed 1237068402
+Producer produced 1687771292
+        Consumer consumed 614787762
+Producer produced 1613862590
+        Consumer consumed 2127594043
+Producer produced 1513197605
+        Consumer consumed 1168465112
+Producer produced 66628836
+        Consumer consumed 1729111857
+Producer produced 2111613419
+        Consumer consumed 1687771292
+Producer produced 1358089124
+        Consumer consumed 1613862590
+Producer produced 1528133005
+        Consumer consumed 1513197605
+Producer produced 894233768
+        Consumer consumed 66628836
+Producer produced 385411741
+        Consumer consumed 2111613419
+Producer produced 1675287606
+        Consumer consumed 1358089124
+Producer produced 774401866
+        Consumer consumed 1528133005
+Producer produced 368771607
+        Consumer consumed 894233768
+Producer produced 786358746
+        Consumer consumed 385411741
+Producer produced 510360811
+        Consumer consumed 1675287606
+Producer produced 2016215413
+        Consumer consumed 774401866
+Producer produced 879130440
+        Consumer consumed 368771607
+Producer produced 52708761
+        Consumer consumed 786358746
+Producer produced 151697289
+        Consumer consumed 510360811
+Producer produced 183882139
+        Consumer consumed 2016215413
+Producer produced 1538602287
+        Consumer consumed 879130440
+Producer produced 675226369
+        Consumer consumed 52708761
+Producer produced 564256536
+        Consumer consumed 151697289
+Producer produced 872596544
+        Consumer consumed 183882139
+Producer produced 180426932
+        Consumer consumed 1538602287
+Producer produced 1142117765
+        Consumer consumed 675226369
+Producer produced 2123258851
+        Consumer consumed 564256536
+Producer produced 1607502892
+        Consumer consumed 872596544
+Producer produced 2328333
+        Consumer consumed 180426932
+Producer produced 1574653664
+        Consumer consumed 1142117765
+Producer produced 158254519
+        Consumer consumed 2123258851
+Producer produced 414870935
+        Consumer consumed 1607502892
+Producer produced 649558389
+        Consumer consumed 2328333
+Producer produced 1767972448
+        Consumer consumed 1574653664
+Producer produced 577207044
+        Consumer consumed 158254519
+Producer produced 706468529
+        Consumer consumed 414870935
+Producer produced 442545842
+        Consumer consumed 649558389
+Producer produced 312564588
+        Consumer consumed 1767972448
+Producer produced 1466063782
+        Consumer consumed 577207044
+Producer produced 1972213860
+        Consumer consumed 706468529
+Producer produced 2022613257
+        Consumer consumed 442545842
+Producer produced 1001655052
+        Consumer consumed 312564588
+Producer produced 582862383
+        Consumer consumed 1466063782
+Producer produced 1602233126
+        Consumer consumed 1972213860
+Producer produced 247096111
+        Consumer consumed 2022613257
+Producer produced 1960180420
+        Consumer consumed 1001655052
+Producer produced 1215876076
+        Consumer consumed 582862383
+Producer produced 1482458944
+        Consumer consumed 1602233126
+Producer produced 155304223
+        Consumer consumed 247096111
+Producer produced 1507522264
+        Consumer consumed 1960180420
+Producer produced 2100110488
+        Consumer consumed 1215876076
+Producer produced 1027804231
+        Consumer consumed 1482458944
+Producer produced 1007756846
+        Consumer consumed 155304223
+Producer produced 1508441468
+        Consumer consumed 1507522264
+Producer produced 1049908995
+        Consumer consumed 2100110488
+Producer produced 487324526
+        Consumer consumed 1027804231
+Producer produced 1404549805
+        Consumer consumed 1007756846
+Producer produced 1842580623
+        Consumer consumed 1508441468
+Producer produced 520889973
+        Consumer consumed 1049908995
+Producer produced 572309762
+        Consumer consumed 487324526
+Producer produced 1510758980
+        Consumer consumed 1404549805
+Producer produced 877922010
+        Consumer consumed 1842580623
+Producer produced 1955432525
